@@ -2,10 +2,14 @@
 minimalistic snake on CPP using OpenGL
 --------------------------------------
 how to compile and run in terminal:
+
   make; ./snake
+--------------------------------------
 or:
+
   make run
 --------------------------------------
 how to clean:
+
   make clean
 --------------------------------------
